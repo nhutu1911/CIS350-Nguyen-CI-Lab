@@ -38,7 +38,7 @@ def test_square():
 
 def test_cube():
 
- output = cude_numbers(3)
+ output = cube_numbers(3)
 
  assert output == 27
 
