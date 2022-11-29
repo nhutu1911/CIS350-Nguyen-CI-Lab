@@ -30,3 +30,17 @@ def test_calc_divide():
 
  assert output == 5
 
+def test_square():
+ 
+ output = square_numbers(4)
+ 
+ assert output == 16
+
+def test_cube():
+
+ output = cude_numbers(3)
+
+ assert output == 27
+
+
+
